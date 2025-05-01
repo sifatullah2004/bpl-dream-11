@@ -17,7 +17,7 @@ const PlayerInfo = ({
       if (isExist) {
         toast.error("This player is already existed", {
           position: "top-center",
-          autoClose: 5000,
+          autoClose: 2000,
           hideProgressBar: false,
           closeOnClick: false,
           pauseOnHover: true,
@@ -30,7 +30,7 @@ const PlayerInfo = ({
         if (selectedPlayer.length >= 6) {
           toast.error("Only 6 players can be added", {
             position: "top-center",
-            autoClose: 5000,
+            autoClose: 2000,
             hideProgressBar: false,
             closeOnClick: false,
             pauseOnHover: true,
@@ -45,7 +45,7 @@ const PlayerInfo = ({
           setSelectedPlayer(newSelectedPlayers);
           toast.success(`Congratulate! ${player.name} now is in squad`, {
             position: "top-center",
-            autoClose: 5000,
+            autoClose: 2000,
             hideProgressBar: false,
             closeOnClick: false,
             pauseOnHover: true,
@@ -59,7 +59,7 @@ const PlayerInfo = ({
     } else {
       toast.error("You don't have enough money", {
         position: "top-center",
-        autoClose: 5000,
+        autoClose: 2000,
         hideProgressBar: false,
         closeOnClick: false,
         pauseOnHover: true,
@@ -86,7 +86,7 @@ const PlayerInfo = ({
     setSelectedPlayer(remainingSelectedPlayers);
     toast.warn(`${deletedPlayer.name} is removed from squad`, {
       position: "top-center",
-      autoClose: 5000,
+      autoClose: 2000,
       hideProgressBar: false,
       closeOnClick: false,
       pauseOnHover: true,

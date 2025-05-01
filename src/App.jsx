@@ -13,9 +13,9 @@ function App() {
   const handleAddToFreeCoin = () => {
     const newCoins = coin + 60000000;
     setCoin(newCoins);
-    toast.success('60000000 is added to card', {
+    toast.success('60000000 $ is added to card', {
       position: "top-center",
-      autoClose: 4000,
+      autoClose: 2000,
       hideProgressBar: false,
       closeOnClick: false,
       pauseOnHover: true,
