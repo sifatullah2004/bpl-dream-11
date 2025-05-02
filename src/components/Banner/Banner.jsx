@@ -1,4 +1,5 @@
 import React from "react";
+import banner from "../../../public/assets/banner-main.png"
 
 const Banner = ({ handleAddToFreeCoin }) => {
   return (
@@ -7,7 +8,7 @@ const Banner = ({ handleAddToFreeCoin }) => {
         <div className="hero-content text-center">
           <div className="">
             <div className="place-items-center">
-              <img src="/src/assets/banner-main.png" alt="" />
+              <img src={banner} alt="banner coming soon" />
             </div>
             <h1 className="text-4xl font-bold text-white mt-6">
               Assemble Your Ultimate Dream 11 Cricket Team

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Shakib Al Hasan",
-    "picture": "/src/assets/sakib_all_hasan.jpg",
+    "picture": "/assets/sakib_all_hasan.jpg",
     "country": "Bangladesh",
     "country_flag_png": "https://flagcdn.com/w320/bd.png",
     "role": "Allrounder",
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "name": "Ben Stokes",
-    "picture": "/src/assets/ben_stock.jpg",
+    "picture": "/assets/ben_stock.jpg",
     "country": "England",
     "country_flag_png": "https://flagcdn.com/w320/gb-eng.png",
     "role": "Allrounder",
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "name": "Steve Smith",
-    "picture": "/src/assets/Steve_smith.jpg",
+    "picture": "/assets/Steve_smith.jpg",
     "country": "Australia",
     "country_flag_png": "https://flagcdn.com/w320/au.png",
     "role": "Batsman",
@@ -38,7 +38,7 @@
   {
     "id": 4,
     "name": "Rashid Khan",
-    "picture": "/src/assets/Rashid_kham.webp",
+    "picture": "/assets/Rashid_kham.webp",
     "country": "Afghanistan",
     "country_flag_png": "https://flagcdn.com/w320/af.png",
     "role": "Bowler",
@@ -50,7 +50,7 @@
   {
     "id": 5,
     "name": "Kane Williamson",
-    "picture": "/src/assets/Kane_williamson.webp",
+    "picture": "/assets/Kane_williamson.webp",
     "country": "New Zealand",
     "country_flag_png": "https://flagcdn.com/w320/nz.png",
     "role": "Batsman",
@@ -62,7 +62,7 @@
   {
     "id": 6,
     "name": "Shaheen Afridi",
-    "picture": "/src/assets/Shaheen.avif",
+    "picture": "/assets/Shaheen.avif",
     "country": "Pakistan",
     "country_flag_png": "https://flagcdn.com/w320/pk.png",
     "role": "Bowler",
@@ -74,7 +74,7 @@
   {
     "id": 7,
     "name": "David Warner",
-    "picture": "/src/assets/David_warner.jpeg",
+    "picture": "/assets/David_warner.jpeg",
     "country": "Australia",
     "country_flag_png": "https://flagcdn.com/w320/au.png",
     "role": "Batsman",
@@ -86,7 +86,7 @@
   {
     "id": 8,
     "name": "Hardik Pandya",
-    "picture": "/src/assets/hardik.jpeg",
+    "picture": "/assets/hardik.jpeg",
     "country": "India",
     "country_flag_png": "https://flagcdn.com/w320/in.png",
     "role": "Allrounder",
@@ -98,7 +98,7 @@
   {
     "id": 9,
     "name": "Virat Kohli",
-    "picture": "/src/assets/virat_koholy.jpeg",
+    "picture": "/assets/virat_koholy.jpeg",
     "country": "India",
     "country_flag_png": "https://flagcdn.com/w320/in.png",
     "role": "Batsman",
@@ -110,7 +110,7 @@
   {
     "id": 10,
     "name": "Mehidy Hasan Miraz",
-    "picture": "/src/assets/mehidy_miraz.avif",
+    "picture": "/assets/mehidy_miraz.avif",
     "country": "Bangladesh",
     "country_flag_png": "https://flagcdn.com/w320/bd.png",
     "role": "Allrounder",

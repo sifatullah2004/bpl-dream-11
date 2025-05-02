@@ -1,10 +1,11 @@
 import React from "react";
 import SubscribeField from "../SubscribeField/SubscribeField";
+import footerLogo from "../../../public/assets/logo-footer.png"
 
 const Footer = () => {
   return (
     <div className="pt-48 bg-black text-white relative">
-      <div className="flex justify-center"><img className="" src="/src/assets/logo-footer.png" alt="" /></div>
+      <div className="flex justify-center"><img className="" src={footerLogo} alt="" /></div>
       <footer className="footer grid grid-cols-3 sm:footer-horizontal p-10 mb-24">
         <nav>
           <h6 className=" text-white font-semibold">About us</h6>

@@ -1,12 +1,13 @@
 import React from "react";
 import { BsCoin } from "react-icons/bs";
+import logo from "../../../public/assets/logo.png"
 
 const Navbar = ({ coin }) => {
   return (
     <div className="">
       <div className="navbar bg-base-100 border-b-2 border-gray-300 flex justify-between fixed opacity-90 top-0 z-10 w-11/12 mx-auto ">
         <div className="">
-          <img src="/src/assets/logo.png" alt="A Logo Related to Cricket" />
+          <img src={logo} alt="A Logo Related to Cricket" />
         </div>
         <div className="">
           <button className="btn ml-3 text-gray-500">Home</button>
